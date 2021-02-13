@@ -4,6 +4,7 @@
 def main():
     """ Main program """
     # Code goes over here.
+    a = "a"
     return 0
 
 
